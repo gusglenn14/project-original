@@ -1,0 +1,49 @@
+{
+    "name": "project original",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.1.0",
+        "color-coded-tilemap": "*",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.47",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#a8e4d4",
+        "#d13b27",
+        "#e07f8a",
+        "#FBFF1F",
+        "#b3e868",
+        "#5d853a",
+        "#68c127",
+        "#286fb8",
+        "#B5B5B5",
+        "#3f2811",
+        "#FFFFFF",
+        "#BAE1FF",
+        "#c7b581",
+        "#7a2222",
+        "#000000"
+    ]
+}
